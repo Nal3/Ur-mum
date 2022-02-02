@@ -1,0 +1,12 @@
+{
+  "name": "ScoutingApp",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "repository": "https://github.com/Nal3/Ur-mum",
+  "author": "not theo",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
